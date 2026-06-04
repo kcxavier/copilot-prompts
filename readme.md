@@ -1,11 +1,4 @@
 <!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
     <h1>Aprenda a criar uma página SPA</h1>
   </p>
 </div>
@@ -46,7 +39,7 @@ Este projeto consiste na construção de uma Single Page Application (SPA) total
 | [Comunicação visual](ca://s?q=Comunicar_resultados_de_forma_clara) | Estruturação de páginas institucionais, Criação de seções de serviços, depoimentos e contato |
 
 
-## 🎯 Objetivos Pedagógicos e Resultados Esperados
+## 🎯 Objetivos e Resultados Esperados
 
 | Objetivo Principal | Resultados Esperados |
 |--------------------|----------------------|
