@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Aprenda a criar uma página SPA</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -61,43 +61,39 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Este projeto consiste na construção de uma Single Page Application (SPA) totalmente responsiva, voltada para micro, pequenas e médias empresas que desejam apresentar seus serviços de forma moderna e acessível.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+| Habilidade/Conhecimento | Nível |
+|--------------------------|-------|
+| [Lógica de programação](ca://s?q=Explicar_logica_de_programacao) | Básico |
+| [HTML e CSS](ca://s?q=Aprender_HTML_e_CSS) | Básico |
+| [JavaScript](ca://s?q=Aprender_JavaScript) | Intermediário |
+| [Framework SPA (React/Vue/Angular)](ca://s?q=Aprender_framework_SPA) | Intermediário |
+| [Gerenciamento de pacotes](ca://s?q=Explicar_gerenciamento_de_pacotes) | Básico |
+| [Git e versionamento](ca://s?q=Aprender_Git_e_versionamento) | Básico |
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 🛠️ Habilidades e Sub-habilidades que vamos aprender
 
-- _Exemplo_:
+| Habilidade Principal | Sub-habilidades |
+|----------------------|-----------------|
+| [Desenvolvimento Frontend](ca://s?q=Aprender_desenvolvimento_frontend) | Estruturação de páginas SPA, Criação de componentes reutilizáveis, Responsividade e design adaptativo |
+| [Integração com APIs](ca://s?q=Aprender_integracao_com_APIs) | Consumo de dados externos, Manipulação de JSON, Tratamento de erros e estados de carregamento |
+| [Análise de Dados](ca://s?q=Aprender_analise_de_dados) | Visualização de métricas, Gráficos interativos, Dashboards simples |
+| [Boas práticas de desenvolvimento](ca://s?q=Aplicar_boas_praticas_de_desenvolvimento) | Uso de Git e versionamento, Organização de código limpo, Estruturação com gerenciadores de pacotes |
+| [Comunicação visual](ca://s?q=Comunicar_resultados_de_forma_clara) | Estruturação de páginas institucionais, Criação de seções de serviços, depoimentos e contato |
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
 
-- [Outros pré-requisitos, se aplicável]
+## 🎯 Objetivos Pedagógicos e Resultados Esperados
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
-
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
-
-- [Lista das habilidades principais a serem desenvolvidas]
-
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
-
+| Objetivo Principal | Resultados Esperados |
+|--------------------|----------------------|
+| [Construir SPAs responsivas](ca://s?q=Construir_SPAs_responsivas) | Aplicar conceitos de componentização e arquitetura frontend; Garantir funcionamento em diferentes dispositivos e tamanhos de tela |
+| [Aplicar boas práticas de desenvolvimento](ca://s?q=Aplicar_boas_praticas_de_desenvolvimento) | Uso de Git e versionamento; Organização de código limpo e reutilizável; Estruturação com gerenciadores de pacotes |
+| [Integrar dados em aplicações web](ca://s?q=Integrar_dados_em_aplicacoes_web) | Consumo de APIs REST; Manipulação de dados em JSON; Criação de fluxos de carregamento e tratamento de erros |
+| [Visualizar e interpretar dados](ca://s?q=Visualizar_e_interpretar_dados) | Construção de gráficos interativos; Criação de dashboards simples; Transformação de dados brutos em informações compreensíveis |
+| [Comunicar resultados de forma clara](ca://s?q=Comunicar_resultados_de_forma_clara) | Estruturação de páginas institucionais; Criação de seções de serviços, depoimentos e contato que transmitam credibilidade |
 <!--START_SECTION:footer-->
 
 <br />
